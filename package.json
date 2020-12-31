@@ -3,7 +3,7 @@
     "name": "Abhi Aiyer"
   },
   "dependencies": {
-    "apollo3-storybook-core": "^0.0.1"
+    "apollo3-storybook-core": "govi-io/apollo3-storybook-core"
   },
   "description": "Add Apollo Client 3 to your Storybook environment",
   "devDependencies": {
